@@ -404,10 +404,10 @@
             "no-death": "Desactiva el efecto de muerte en tu jugador.",
             "no-dash-fire": "Esconde el fuego detrás de tu jugador al momento de estar usandouna dash orbe.",
             "no-circles": "Desactiva efectos de circulo. Por ejemplo cuando pasas encima de una orbe.",
-            "no-shake": "Disables camera shaking",
-            "longer-trail": "Lengthens your player's trail length by a factor of 3x",
-            "longer-trail/player-only": "Only makes player trails longer, ignoring all other trail effects ingame",
-            "hide-percent-after-complete": "Fades out the progress bar and percentage label after a level is completed",
+            "no-shake": "Desactiva el temblor de la cámara.",
+            "longer-trail": "Alarga el camino de tu jugador por un factor de x3",
+            "longer-trail/player-only": "Solo hace el camino del jugador más largo. Ignorando todos los demás caminos en el juego.",
+            "hide-percent-after-complete": "Desactiva lentamente la barra y el número de progreso al momento de un nivel ser completado.",
             "trail-off": "Fuerza el camino a estar siempre desactivado.",
             "trail-off/wave-only": "Fuerza la desactivación de los caminos a solo en el Wave.",
             "trail-on": "Fuerza el camino a estar siempre activado.",
@@ -436,6 +436,19 @@
             "trail-cutting": "Cambiar los fps que el camino se actualiza, similar a la 2.1",
             "no-particles-adv/teleport-portal-particles": "",
             "trail-cutting/fps": ""
+            "create-custom-reward": "Crea un cofre customizado que te da las recompensas de tu elección.",
+            "noclip/player1": "Desactivando esto permite al jugador 1 morir con noclip activado",
+            "noclip/player2": "Desactivando esto permite al jugador 2 morir con noclip activado",
+            "noclip/player1/use-min-accuracy": "Permite al jugador morir cuando el porcentaje es menor al porcentaje especificado",
+            "noclip/player2/use-min-accuracy": "Permite al jugador morir cuando el porcentaje es menor al porcentaje especificado",
+            "noclip/player1/use-max-deaths": "Permite al jugador morir cuando su cantidad de muertes en noclip es mayor a la especificada",
+            "noclip/player2/use-max-deaths": "Permite al jugador morir cuando su cantidad de muertes en noclip es mayor a la especificada",
+            "show-hitboxes-on-death/death-object-only": "Solo muestra la hitbox del objeto donde moriste",
+            "show-hitboxes-on-death/trail": "Permite el camino de hitbox estar aunque solo hitboxes en muerte esta activado",
+            "search-on-keypress": "Cambia a la tab de busqueda cuando presionas una keybind de tu teclado",
+            "disable-shortcuts": "Desactiva las atajos en pantalla",
+            "shortcut/open-settings": "Abre el menu de opciones",
+            "shortcut/restart-attempt": "Reinicia el intento currente si estás en un nivel",
+            "shortcut/toggle-practice": "Activa el modo práctica si estas en un nivel."
         }
-    }
-}
+    
